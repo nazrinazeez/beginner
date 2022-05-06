@@ -1,0 +1,9 @@
+.cust_right {
+    text-align: right;
+}
+.cust_center{
+    text-align: center;
+}
+.cust_margin{
+    margin-left: 50% !important;
+}
